@@ -2879,7 +2879,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "Transistor_BJT:2N3904"
+		(symbol "Transistor_BJT:MMBT3904"
 			(pin_names
 				(offset 0)
 				(hide yes)
@@ -2896,7 +2896,7 @@
 					(justify left)
 				)
 			)
-			(property "Value" "2N3904"
+			(property "Value" "MMBT3904"
 				(at 5.08 0 0)
 				(effects
 					(font
@@ -2905,7 +2905,7 @@
 					(justify left)
 				)
 			)
-			(property "Footprint" "Package_TO_SOT_THT:TO-92_Inline"
+			(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
 				(at 5.08 -1.905 0)
 				(effects
 					(font
@@ -2916,7 +2916,7 @@
 					(hide yes)
 				)
 			)
-			(property "Datasheet" "https://www.onsemi.com/pub/Collateral/2N3903-D.PDF"
+			(property "Datasheet" "https://www.onsemi.com/pdf/datasheet/pzt3904-d.pdf"
 				(at 0 0 0)
 				(effects
 					(font
@@ -2926,7 +2926,7 @@
 					(hide yes)
 				)
 			)
-			(property "Description" "0.2A Ic, 40V Vce, Small Signal NPN Transistor, TO-92"
+			(property "Description" "0.2A Ic, 40V Vce, Small Signal NPN Transistor, SOT-23"
 				(at 0 0 0)
 				(effects
 					(font
@@ -2944,7 +2944,7 @@
 					(hide yes)
 				)
 			)
-			(property "ki_fp_filters" "TO?92*"
+			(property "ki_fp_filters" "SOT?23*"
 				(at 0 0 0)
 				(effects
 					(font
@@ -2953,7 +2953,7 @@
 					(hide yes)
 				)
 			)
-			(symbol "2N3904_0_1"
+			(symbol "MMBT3904_0_1"
 				(polyline
 					(pts
 						(xy -2.54 0) (xy 0.635 0)
@@ -2990,7 +2990,7 @@
 					)
 				)
 			)
-			(symbol "2N3904_1_1"
+			(symbol "MMBT3904_1_1"
 				(polyline
 					(pts
 						(xy 0.635 0.635) (xy 2.54 2.54)
@@ -3037,7 +3037,7 @@
 							)
 						)
 					)
-					(number "2"
+					(number "1"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -3073,7 +3073,7 @@
 							)
 						)
 					)
-					(number "1"
+					(number "2"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -3608,7 +3608,7 @@
 	)
 	(wire
 		(pts
-			(xy 146.05 46.99) (xy 140.97 46.99)
+			(xy 147.32 46.99) (xy 140.97 46.99)
 		)
 		(stroke
 			(width 0)
@@ -3738,7 +3738,7 @@
 	)
 	(wire
 		(pts
-			(xy 140.97 35.56) (xy 146.05 35.56)
+			(xy 140.97 35.56) (xy 147.32 35.56)
 		)
 		(stroke
 			(width 0)
@@ -4138,7 +4138,7 @@
 	)
 	(wire
 		(pts
-			(xy 146.05 35.56) (xy 146.05 38.1)
+			(xy 147.32 35.56) (xy 147.32 38.1)
 		)
 		(stroke
 			(width 0)
@@ -4228,7 +4228,7 @@
 	)
 	(wire
 		(pts
-			(xy 146.05 43.18) (xy 146.05 46.99)
+			(xy 147.32 43.18) (xy 147.32 46.99)
 		)
 		(stroke
 			(width 0)
@@ -4238,7 +4238,7 @@
 	)
 	(wire
 		(pts
-			(xy 135.89 44.45) (xy 135.89 46.99)
+			(xy 134.62 44.45) (xy 134.62 46.99)
 		)
 		(stroke
 			(width 0)
@@ -4628,7 +4628,7 @@
 	)
 	(wire
 		(pts
-			(xy 135.89 35.56) (xy 140.97 35.56)
+			(xy 134.62 35.56) (xy 140.97 35.56)
 		)
 		(stroke
 			(width 0)
@@ -4648,7 +4648,7 @@
 	)
 	(wire
 		(pts
-			(xy 135.89 46.99) (xy 140.97 46.99)
+			(xy 134.62 46.99) (xy 140.97 46.99)
 		)
 		(stroke
 			(width 0)
@@ -4898,7 +4898,7 @@
 	)
 	(wire
 		(pts
-			(xy 135.89 36.83) (xy 135.89 35.56)
+			(xy 134.62 36.83) (xy 134.62 35.56)
 		)
 		(stroke
 			(width 0)
@@ -5651,8 +5651,84 @@
 		)
 	)
 	(symbol
+		(lib_id "Transistor_BJT:MMBT3904")
+		(at 138.43 55.88 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "04fa7406-1229-417d-b9a8-60e14c0449c9")
+		(property "Reference" "Q1"
+			(at 143.51 54.6099 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "MMBT3904"
+			(at 143.51 57.1499 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
+			(at 143.51 57.785 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.onsemi.com/pdf/datasheet/pzt3904-d.pdf"
+			(at 138.43 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Description" "0.2A Ic, 40V Vce, Small Signal NPN Transistor, SOT-23"
+			(at 138.43 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "a8f8db96-4969-4740-a7f1-aceae9ab06f6")
+		)
+		(pin "1"
+			(uuid "14c67e65-1e79-4c0f-8dec-46c980f13d09")
+		)
+		(pin "3"
+			(uuid "e11358a3-ec03-4f35-869a-6ef0aa00b68f")
+		)
+		(instances
+			(project ""
+				(path "/e6f142e2-b716-4ad1-8784-0c223e49aa91"
+					(reference "Q1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Diode:1N4001")
-		(at 135.89 40.64 270)
+		(at 134.62 40.64 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5661,7 +5737,7 @@
 		(fields_autoplaced yes)
 		(uuid "0651fae3-388b-4539-ae5d-d1fff4a133f9")
 		(property "Reference" "D1"
-			(at 138.43 39.3699 90)
+			(at 137.16 39.3699 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5669,8 +5745,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "1N4001"
-			(at 138.43 41.9099 90)
+		(property "Value" "1N4148W"
+			(at 137.16 41.9099 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5679,7 +5755,7 @@
 			)
 		)
 		(property "Footprint" "Diode_SMD:D_SOD-123"
-			(at 135.89 40.64 0)
+			(at 134.62 40.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5687,8 +5763,8 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "http://www.vishay.com/docs/88503/1n4001.pdf"
-			(at 135.89 40.64 0)
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C917030.pdf?spm=wm.sxq.inf.ggs___wm.sxq.xtl.lan.6&lcsc_vid=RVkIBVdQQ1VaXlFVTgBcVAUEQFhYUVZREgQIA1ECR1AxVlNfRFlXVlNRRlhdUjsOAxUeFF5JWBYZEEoKFBINSQcJGk4NBhADEA4cHktQQlBADxALGw%3D%3D"
+			(at 134.62 40.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5696,8 +5772,8 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "50V 1A General Purpose Rectifier Diode, DO-41"
-			(at 135.89 40.64 0)
+		(property "Description" "Switching diode 100V 150mA SOD-123"
+			(at 134.62 40.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5706,7 +5782,7 @@
 			)
 		)
 		(property "Sim.Device" "D"
-			(at 135.89 40.64 0)
+			(at 134.62 40.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5715,7 +5791,16 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 135.89 40.64 0)
+			(at 134.62 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C917030"
+			(at 134.62 40.64 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6025,7 +6110,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100nF"
+		(property "Value" "22nF"
 			(at 43.18 172.7199 0)
 			(effects
 				(font
@@ -6423,7 +6508,7 @@
 	)
 	(symbol
 		(lib_id "Device:Buzzer")
-		(at 148.59 40.64 0)
+		(at 149.86 40.64 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6432,7 +6517,7 @@
 		(fields_autoplaced yes)
 		(uuid "373e2c1e-cc19-4191-bc9b-9eadff8080c0")
 		(property "Reference" "BZ1"
-			(at 152.4 39.3699 0)
+			(at 153.67 39.3699 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6441,7 +6526,7 @@
 			)
 		)
 		(property "Value" "Buzzer"
-			(at 152.4 41.9099 0)
+			(at 153.67 41.9099 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6450,7 +6535,7 @@
 			)
 		)
 		(property "Footprint" "Buzzer_Beeper:Buzzer_12x9.5RM7.6"
-			(at 147.955 38.1 90)
+			(at 149.225 38.1 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6459,7 +6544,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 147.955 38.1 90)
+			(at 149.225 38.1 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6468,7 +6553,7 @@
 			)
 		)
 		(property "Description" "Buzzer, polarized"
-			(at 148.59 40.64 0)
+			(at 149.86 40.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6731,82 +6816,6 @@
 			(project ""
 				(path "/e6f142e2-b716-4ad1-8784-0c223e49aa91"
 					(reference "C2")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Transistor_BJT:2N3904")
-		(at 138.43 55.88 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "43eafc89-4e80-44af-bd83-99964d776b7e")
-		(property "Reference" "Q1"
-			(at 143.51 54.6099 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "2N3904"
-			(at 143.51 57.1499 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Package_TO_SOT_THT:TO-92_Inline"
-			(at 143.51 57.785 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(italic yes)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://www.onsemi.com/pub/Collateral/2N3903-D.PDF"
-			(at 138.43 55.88 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Description" "0.2A Ic, 40V Vce, Small Signal NPN Transistor, TO-92"
-			(at 138.43 55.88 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "38af9df4-7e79-47ac-a045-2b1acf136d0b")
-		)
-		(pin "1"
-			(uuid "07efb676-fb89-4f8f-924b-2efb0c90b863")
-		)
-		(pin "3"
-			(uuid "05cdbc58-b7e0-4c77-bfed-59731f15dbf1")
-		)
-		(instances
-			(project ""
-				(path "/e6f142e2-b716-4ad1-8784-0c223e49aa91"
-					(reference "Q1")
 					(unit 1)
 				)
 			)
@@ -8294,7 +8303,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100nF"
+		(property "Value" "22nF"
 			(at 73.66 173.9899 0)
 			(effects
 				(font
@@ -8557,7 +8566,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100nF"
+		(property "Value" "22nF"
 			(at 135.89 173.9899 0)
 			(effects
 				(font
@@ -8905,7 +8914,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100nF"
+		(property "Value" "22nF"
 			(at 105.41 173.9899 0)
 			(effects
 				(font

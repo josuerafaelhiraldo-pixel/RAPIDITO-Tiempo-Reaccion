@@ -397,272 +397,272 @@
 		)
 	)
 	(junction
-		(at 181.61 100.33)
+		(at 161.29 93.98)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "65698096-4287-4ca4-8682-97d0fd4590c0")
+		(uuid "299a60b2-2b9c-4896-a4f1-a0851290d126")
 	)
 	(junction
-		(at 119.38 100.33)
+		(at 193.04 93.98)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "a654b4ef-3f70-4f54-bbfd-9cfa242cb743")
+		(uuid "b3ecc135-1b57-4197-9feb-8a965599114a")
 	)
 	(junction
-		(at 149.86 100.33)
+		(at 100.33 93.98)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "ba9186a9-0d29-483a-912c-c0556de5334c")
+		(uuid "c4cdcac0-6031-4648-856c-2d8988471d77")
 	)
 	(junction
-		(at 88.9 100.33)
+		(at 130.81 93.98)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "e5bc2e13-4852-4d4b-8ee4-1066ad66aeaf")
+		(uuid "cbc5c1c1-e7d2-46c8-8ad9-21767abd13f2")
 	)
 	(wire
 		(pts
-			(xy 149.86 92.71) (xy 149.86 100.33)
+			(xy 130.81 106.68) (xy 130.81 111.76)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "0abe6ede-ae5b-463c-baf0-1c0659d649f0")
+		(uuid "143450c1-87a8-4354-9f9b-f3aa596b8fc3")
 	)
 	(wire
 		(pts
-			(xy 104.14 100.33) (xy 88.9 100.33)
+			(xy 193.04 93.98) (xy 193.04 96.52)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "1039a0f2-9709-425e-8ddc-b9cf369f98f7")
+		(uuid "24b8dd21-235f-45f0-9f8d-d24e2797c4ed")
 	)
 	(wire
 		(pts
-			(xy 119.38 100.33) (xy 119.38 102.87)
+			(xy 115.57 104.14) (xy 115.57 110.49)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "1474ab67-954b-46fd-8a1c-ddaeec8687ac")
+		(uuid "282d3d1e-a7e2-464d-8f1f-ab0b76d622bc")
 	)
 	(wire
 		(pts
-			(xy 181.61 92.71) (xy 181.61 100.33)
+			(xy 193.04 106.68) (xy 193.04 111.76)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "1bd88fe9-a6c1-4ac9-b165-4d8c9afe4a0f")
+		(uuid "2f6c481b-6817-41fc-9996-ac6ebde7cc3b")
 	)
 	(wire
 		(pts
-			(xy 181.61 100.33) (xy 196.85 100.33)
+			(xy 115.57 96.52) (xy 115.57 93.98)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "268f4ecb-fef7-4617-b327-815b23f02a81")
+		(uuid "311a2c0a-61ff-4a4a-8ca7-f9953695cf82")
 	)
 	(wire
 		(pts
-			(xy 134.62 111.76) (xy 134.62 118.11)
+			(xy 130.81 93.98) (xy 130.81 96.52)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "2716d696-e936-4ff3-a058-d1edf735f848")
+		(uuid "36b49be2-77c2-4a0a-ab13-4f8fa031e356")
 	)
 	(wire
 		(pts
-			(xy 119.38 113.03) (xy 119.38 118.11)
+			(xy 208.28 105.41) (xy 208.28 111.76)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "27a17392-5001-47b1-9f1e-fe3e9843581c")
+		(uuid "3a17705e-40ab-4d4f-b6f6-e4a8f226004b")
 	)
 	(wire
 		(pts
-			(xy 196.85 104.14) (xy 196.85 100.33)
+			(xy 100.33 85.09) (xy 100.33 93.98)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "28bf3328-9656-4d7d-a647-4f19bac376db")
+		(uuid "44f33bdd-bce4-4074-8e58-febade4e17f3")
 	)
 	(wire
 		(pts
-			(xy 104.14 110.49) (xy 104.14 116.84)
+			(xy 146.05 93.98) (xy 130.81 93.98)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "2b22c851-678c-49d9-9bb2-29c1fab159c0")
+		(uuid "51b8007c-5d38-4c28-b33e-5368b1e5c43d")
 	)
 	(wire
 		(pts
-			(xy 196.85 111.76) (xy 196.85 118.11)
+			(xy 130.81 86.36) (xy 130.81 93.98)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "2b4688b6-137e-4140-9de4-98684219fe16")
+		(uuid "56b5c07b-08b2-4aa5-9302-b8a216560767")
 	)
 	(wire
 		(pts
-			(xy 104.14 102.87) (xy 104.14 100.33)
+			(xy 177.8 97.79) (xy 177.8 93.98)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "2d3ecca6-f737-452d-ad52-879325423fe9")
+		(uuid "5f045c4b-a2eb-495f-8dbe-a515a0957ea6")
 	)
 	(wire
 		(pts
-			(xy 181.61 113.03) (xy 181.61 118.11)
+			(xy 161.29 93.98) (xy 161.29 96.52)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "2fac1e01-4109-4052-b8d4-9c9ededfc9fb")
+		(uuid "60f3eb2c-5815-4079-90ef-7ed059caca50")
 	)
 	(wire
 		(pts
-			(xy 166.37 111.76) (xy 166.37 118.11)
+			(xy 100.33 105.41) (xy 100.33 110.49)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "45e1c561-7529-490a-877b-09a0b1834e38")
+		(uuid "6175393c-2ba2-4bf5-9111-f765ba416f61")
 	)
 	(wire
 		(pts
-			(xy 134.62 100.33) (xy 119.38 100.33)
+			(xy 100.33 93.98) (xy 100.33 95.25)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "5aa6d23e-24ff-440b-8490-55b364e1c5a2")
+		(uuid "67523c29-dd52-490d-a955-a076be5e2671")
 	)
 	(wire
 		(pts
-			(xy 149.86 113.03) (xy 149.86 118.11)
+			(xy 146.05 105.41) (xy 146.05 111.76)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "64f02244-3dd3-4fa9-9b28-0923ed2c0398")
+		(uuid "69b5b845-481e-4d3c-ba34-b5357579aee5")
 	)
 	(wire
 		(pts
-			(xy 119.38 92.71) (xy 119.38 100.33)
+			(xy 161.29 106.68) (xy 161.29 111.76)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "72df000f-abfa-4a8f-8a4c-f340eeaea162")
+		(uuid "8b1859ee-547e-455b-8337-574eb5add71e")
 	)
 	(wire
 		(pts
-			(xy 88.9 100.33) (xy 88.9 101.6)
+			(xy 115.57 93.98) (xy 100.33 93.98)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "90159817-0c25-4c4d-b5cf-a1f41e674854")
+		(uuid "9bccac62-e301-4dc8-b83d-a3465989417d")
 	)
 	(wire
 		(pts
-			(xy 149.86 100.33) (xy 149.86 102.87)
+			(xy 161.29 86.36) (xy 161.29 93.98)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "974bb904-23a4-4b16-b247-d61c01f955d5")
+		(uuid "b17e5e6f-94be-4862-9bc6-1cfc13032920")
 	)
 	(wire
 		(pts
-			(xy 134.62 104.14) (xy 134.62 100.33)
+			(xy 193.04 93.98) (xy 208.28 93.98)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "a11e3395-3e35-48ed-90a1-281bf1591b7c")
+		(uuid "c5dd1303-991a-4752-9ace-30c2190fd6c2")
 	)
 	(wire
 		(pts
-			(xy 166.37 100.33) (xy 149.86 100.33)
+			(xy 208.28 97.79) (xy 208.28 93.98)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "cc569bf5-6f31-4c17-8c64-fac2c6bee030")
+		(uuid "d4c59a8b-ccce-436a-a080-e7397c686f66")
 	)
 	(wire
 		(pts
-			(xy 88.9 111.76) (xy 88.9 116.84)
+			(xy 193.04 86.36) (xy 193.04 93.98)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "cd13d0cb-b0dc-4cd1-8931-2dbdbaa07c01")
+		(uuid "e2057145-7776-4137-96fd-e9a663ff189e")
 	)
 	(wire
 		(pts
-			(xy 88.9 91.44) (xy 88.9 100.33)
+			(xy 177.8 93.98) (xy 161.29 93.98)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "d68bf84a-91e6-45dd-b95e-8893a98df94b")
+		(uuid "f21a8e06-378a-480b-922f-9cb4fef85a9d")
 	)
 	(wire
 		(pts
-			(xy 181.61 100.33) (xy 181.61 102.87)
+			(xy 177.8 105.41) (xy 177.8 111.76)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "ec712d1f-928f-46de-b546-0bf6c4e067eb")
+		(uuid "f23b9759-6b07-4191-88e3-6112e0854133")
 	)
 	(wire
 		(pts
-			(xy 166.37 104.14) (xy 166.37 100.33)
+			(xy 146.05 97.79) (xy 146.05 93.98)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "ef8e1d6e-7992-47ff-91cb-726166f6dc08")
+		(uuid "fe893e25-e950-48ba-885f-7d8c24376f3f")
 	)
 	(global_label "MODE_input"
 		(shape input)
-		(at 181.61 92.71 90)
+		(at 193.04 86.36 90)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -670,9 +670,9 @@
 			)
 			(justify left)
 		)
-		(uuid "29d369d0-8cdd-44b8-b1d1-f93d65387b69")
+		(uuid "2deca3a2-99f9-45ef-a806-8bf5f1d7e718")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 181.61 78.7788 90)
+			(at 193.04 72.4288 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -684,7 +684,7 @@
 	)
 	(global_label "RESET_input"
 		(shape input)
-		(at 149.86 92.71 90)
+		(at 161.29 86.36 90)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -692,9 +692,9 @@
 			)
 			(justify left)
 		)
-		(uuid "462115e6-bfd2-4f98-8cff-00f8500f47ff")
+		(uuid "464257df-d966-4803-9833-27ed7fd397b6")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 149.86 78.2346 90)
+			(at 161.29 71.8846 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -706,7 +706,7 @@
 	)
 	(global_label "START_input"
 		(shape input)
-		(at 119.38 92.71 90)
+		(at 130.81 86.36 90)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -714,9 +714,9 @@
 			)
 			(justify left)
 		)
-		(uuid "533b94fa-99c4-4261-bef1-2330ae543371")
+		(uuid "6b95a80e-72bd-4c45-b93c-cfe4d6015793")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 119.38 78.4764 90)
+			(at 130.81 72.1264 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -728,7 +728,7 @@
 	)
 	(global_label "RESP_input"
 		(shape input)
-		(at 88.9 91.44 90)
+		(at 100.33 85.09 90)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -736,9 +736,9 @@
 			)
 			(justify left)
 		)
-		(uuid "562d63be-7dd5-482e-bb2f-92a493433511")
+		(uuid "d67324ca-e6d5-4fdc-812d-aa7fafab246b")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 88.9 77.8112 90)
+			(at 100.33 71.4612 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -750,898 +750,16 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 134.62 118.11 0)
+		(at 177.8 111.76 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "08aef1c8-2452-4ec7-9991-55dcac84af34")
-		(property "Reference" "#PWR040"
-			(at 134.62 124.46 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 134.62 123.19 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 134.62 118.11 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 134.62 118.11 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 134.62 118.11 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "76eda9af-43f5-413e-8838-4782065b3c4b")
-		)
-		(instances
-			(project "RAPIDITO [tiempo-reacción]"
-				(path "/e6f142e2-b716-4ad1-8784-0c223e49aa91/519b65f8-5429-4826-a317-b754b8da882c"
-					(reference "#PWR040")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Switch:SW_Push")
-		(at 181.61 107.95 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "0d26709f-bcdd-4b93-8ae7-d9bd9a67041a")
-		(property "Reference" "BTN_MODE2"
-			(at 182.88 106.6799 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "PB4"
-			(at 182.88 109.2199 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "Connector_Molex:Molex_KK-254_AE-6410-02A_1x02_P2.54mm_Vertical"
-			(at 176.53 107.95 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 176.53 107.95 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Push button switch, generic, two pins"
-			(at 181.61 107.95 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "54a2a17b-e942-4374-828c-6086e29c5632")
-		)
-		(pin "1"
-			(uuid "87e64bde-96de-465b-b68b-fddcd3341f3f")
-		)
-		(instances
-			(project "RAPIDITO [tiempo-reacción]"
-				(path "/e6f142e2-b716-4ad1-8784-0c223e49aa91/519b65f8-5429-4826-a317-b754b8da882c"
-					(reference "BTN_MODE2")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C")
-		(at 104.14 106.68 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "1b1a1108-fa0b-4592-a7ed-12975117e8fd")
-		(property "Reference" "C7"
-			(at 107.95 105.4099 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "100nF"
-			(at 107.95 107.9499 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
-			(at 105.1052 110.49 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 104.14 106.68 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Unpolarized capacitor"
-			(at 104.14 106.68 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "004ea27a-d8ba-427b-a798-e59cc084d40b")
-		)
-		(pin "1"
-			(uuid "a6cf629f-4e53-4772-86db-5cad667ebed1")
-		)
-		(instances
-			(project "RAPIDITO [tiempo-reacción]"
-				(path "/e6f142e2-b716-4ad1-8784-0c223e49aa91/519b65f8-5429-4826-a317-b754b8da882c"
-					(reference "C7")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 104.14 116.84 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "1b1f6c37-d8af-4dd3-8ed2-66cf65f68a1b")
-		(property "Reference" "#PWR038"
-			(at 104.14 123.19 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 104.14 121.92 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 104.14 116.84 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 104.14 116.84 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 104.14 116.84 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "42cb7dd1-cea6-4658-807a-aeee2f5cd011")
-		)
-		(instances
-			(project "RAPIDITO [tiempo-reacción]"
-				(path "/e6f142e2-b716-4ad1-8784-0c223e49aa91/519b65f8-5429-4826-a317-b754b8da882c"
-					(reference "#PWR038")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Switch:SW_Push")
-		(at 119.38 107.95 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "31c2b3f2-d65b-4a8c-856e-015e4636c4f5")
-		(property "Reference" "BTN_START2"
-			(at 120.65 106.6799 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "PB2"
-			(at 120.65 109.2199 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "Connector_Molex:Molex_KK-254_AE-6410-02A_1x02_P2.54mm_Vertical"
-			(at 114.3 107.95 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 114.3 107.95 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Push button switch, generic, two pins"
-			(at 119.38 107.95 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "5a547ebd-17e9-4c90-bd4e-5b1baeefe1e8")
-		)
-		(pin "1"
-			(uuid "941dc7f0-4160-4a95-b63f-0b3a644062e0")
-		)
-		(instances
-			(project "RAPIDITO [tiempo-reacción]"
-				(path "/e6f142e2-b716-4ad1-8784-0c223e49aa91/519b65f8-5429-4826-a317-b754b8da882c"
-					(reference "BTN_START2")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C")
-		(at 134.62 107.95 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "4264206c-8a41-4ef6-94e3-3ea06e9c25db")
-		(property "Reference" "C8"
-			(at 138.43 106.6799 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "100nF"
-			(at 138.43 109.2199 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
-			(at 135.5852 111.76 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 134.62 107.95 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Unpolarized capacitor"
-			(at 134.62 107.95 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "0f66fb8b-d999-4f2d-a299-edd5e51dd739")
-		)
-		(pin "1"
-			(uuid "6dcb2a85-f50b-4810-860a-f8e75431bc8f")
-		)
-		(instances
-			(project "RAPIDITO [tiempo-reacción]"
-				(path "/e6f142e2-b716-4ad1-8784-0c223e49aa91/519b65f8-5429-4826-a317-b754b8da882c"
-					(reference "C8")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Switch:SW_Push")
-		(at 88.9 106.68 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "87add1e4-5a0f-4a66-8ec7-df334a5dec3b")
-		(property "Reference" "BTN_RESP2"
-			(at 90.17 105.4099 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "PB1"
-			(at 90.17 107.9499 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "Connector_Molex:Molex_KK-254_AE-6410-02A_1x02_P2.54mm_Vertical"
-			(at 83.82 106.68 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 83.82 106.68 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Push button switch, generic, two pins"
-			(at 88.9 106.68 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "d85798cc-3772-4e87-b8bc-d95f198df9a7")
-		)
-		(pin "1"
-			(uuid "3201c23f-9362-49fe-b97d-a2315a2326bb")
-		)
-		(instances
-			(project "RAPIDITO [tiempo-reacción]"
-				(path "/e6f142e2-b716-4ad1-8784-0c223e49aa91/519b65f8-5429-4826-a317-b754b8da882c"
-					(reference "BTN_RESP2")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 196.85 118.11 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "8c1b8f35-dee3-47d8-b7bf-59e951f047c8")
-		(property "Reference" "#PWR044"
-			(at 196.85 124.46 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 196.85 123.19 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 196.85 118.11 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 196.85 118.11 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 196.85 118.11 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "dfa55f8a-9e8c-4628-90f4-121045d4f82b")
-		)
-		(instances
-			(project "RAPIDITO [tiempo-reacción]"
-				(path "/e6f142e2-b716-4ad1-8784-0c223e49aa91/519b65f8-5429-4826-a317-b754b8da882c"
-					(reference "#PWR044")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 149.86 118.11 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "8e5fe410-f845-4992-81e7-42e9b7b5b9ed")
-		(property "Reference" "#PWR041"
-			(at 149.86 124.46 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 149.86 123.19 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 149.86 118.11 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 149.86 118.11 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 149.86 118.11 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "e7b31f3f-1569-4f68-8089-2c63c579a6a4")
-		)
-		(instances
-			(project "RAPIDITO [tiempo-reacción]"
-				(path "/e6f142e2-b716-4ad1-8784-0c223e49aa91/519b65f8-5429-4826-a317-b754b8da882c"
-					(reference "#PWR041")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 88.9 116.84 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "a9a24135-d23f-4257-8a56-0f61e8e12e2e")
-		(property "Reference" "#PWR037"
-			(at 88.9 123.19 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 88.9 121.92 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 88.9 116.84 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 88.9 116.84 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 88.9 116.84 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "a225a10d-f291-4cb2-a066-d035ff0a61db")
-		)
-		(instances
-			(project "RAPIDITO [tiempo-reacción]"
-				(path "/e6f142e2-b716-4ad1-8784-0c223e49aa91/519b65f8-5429-4826-a317-b754b8da882c"
-					(reference "#PWR037")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C")
-		(at 166.37 107.95 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "c36bc2f2-ebc7-44dc-aafe-62db911552b2")
-		(property "Reference" "C9"
-			(at 170.18 106.6799 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "100nF"
-			(at 170.18 109.2199 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
-			(at 167.3352 111.76 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 166.37 107.95 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Unpolarized capacitor"
-			(at 166.37 107.95 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "1afbc5a3-8902-4967-ad80-08232e325849")
-		)
-		(pin "1"
-			(uuid "f00621f4-74ed-4000-849a-9e160b928e56")
-		)
-		(instances
-			(project "RAPIDITO [tiempo-reacción]"
-				(path "/e6f142e2-b716-4ad1-8784-0c223e49aa91/519b65f8-5429-4826-a317-b754b8da882c"
-					(reference "C9")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 119.38 118.11 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "cec9aadb-94aa-47c3-9919-1ff50a014c80")
-		(property "Reference" "#PWR039"
-			(at 119.38 124.46 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 119.38 123.19 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 119.38 118.11 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 119.38 118.11 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 119.38 118.11 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "56552612-3f25-4288-bbb9-3330c04da5be")
-		)
-		(instances
-			(project "RAPIDITO [tiempo-reacción]"
-				(path "/e6f142e2-b716-4ad1-8784-0c223e49aa91/519b65f8-5429-4826-a317-b754b8da882c"
-					(reference "#PWR039")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 181.61 118.11 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "d186c415-9bdc-4453-bc5e-79dc5ebb580d")
-		(property "Reference" "#PWR043"
-			(at 181.61 124.46 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 181.61 123.19 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 181.61 118.11 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 181.61 118.11 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 181.61 118.11 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "0d492539-c019-4af8-8dac-830a5945daa8")
-		)
-		(instances
-			(project "RAPIDITO [tiempo-reacción]"
-				(path "/e6f142e2-b716-4ad1-8784-0c223e49aa91/519b65f8-5429-4826-a317-b754b8da882c"
-					(reference "#PWR043")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 166.37 118.11 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "d4af0a9f-1a13-425e-8f4d-415f1c153ed5")
+		(uuid "2e88d2ad-c72f-4c46-a358-0948c0a45f62")
 		(property "Reference" "#PWR042"
-			(at 166.37 124.46 0)
+			(at 177.8 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1650,7 +768,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 166.37 123.19 0)
+			(at 177.8 116.84 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1658,7 +776,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 166.37 118.11 0)
+			(at 177.8 111.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1667,7 +785,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 166.37 118.11 0)
+			(at 177.8 111.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1676,7 +794,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 166.37 118.11 0)
+			(at 177.8 111.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1685,7 +803,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "a2daefb4-deda-4b84-af41-14399c9b0ae0")
+			(uuid "50352666-31e7-4eff-a2bd-0f32f3d83d4b")
 		)
 		(instances
 			(project "RAPIDITO [tiempo-reacción]"
@@ -1698,16 +816,16 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 149.86 107.95 90)
+		(at 130.81 101.6 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "dae9617d-3a9e-49ba-86f7-7c0ed94285ed")
-		(property "Reference" "BTN_RESET2"
-			(at 151.13 106.6799 90)
+		(uuid "3cb6f22e-a9ed-4265-9258-8d94d2a012e2")
+		(property "Reference" "BTN_START2"
+			(at 132.08 100.3299 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1715,8 +833,8 @@
 				(justify right)
 			)
 		)
-		(property "Value" "PB3"
-			(at 151.13 109.2199 90)
+		(property "Value" "PB2"
+			(at 132.08 102.8699 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1725,7 +843,7 @@
 			)
 		)
 		(property "Footprint" "Connector_Molex:Molex_KK-254_AE-6410-02A_1x02_P2.54mm_Vertical"
-			(at 144.78 107.95 0)
+			(at 125.73 101.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1734,7 +852,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 144.78 107.95 0)
+			(at 125.73 101.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1743,7 +861,7 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
-			(at 149.86 107.95 0)
+			(at 130.81 101.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1752,10 +870,550 @@
 			)
 		)
 		(pin "2"
-			(uuid "86599401-134a-4c69-9bac-24b48b6891d6")
+			(uuid "3606ea14-3bd4-4170-9eb1-247a4dd105e7")
 		)
 		(pin "1"
-			(uuid "0f41724d-1575-4d4d-bfef-4a59bf2a59c8")
+			(uuid "938f345f-9c9f-4555-aa95-ea3a95edf848")
+		)
+		(instances
+			(project "RAPIDITO [tiempo-reacción]"
+				(path "/e6f142e2-b716-4ad1-8784-0c223e49aa91/519b65f8-5429-4826-a317-b754b8da882c"
+					(reference "BTN_START2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 100.33 110.49 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "4a702053-1a72-429f-8571-203b0b9c0b6c")
+		(property "Reference" "#PWR037"
+			(at 100.33 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 100.33 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 100.33 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 100.33 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 100.33 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "594bcb8d-0378-4ff7-815c-3aed028138ac")
+		)
+		(instances
+			(project "RAPIDITO [tiempo-reacción]"
+				(path "/e6f142e2-b716-4ad1-8784-0c223e49aa91/519b65f8-5429-4826-a317-b754b8da882c"
+					(reference "#PWR037")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C")
+		(at 115.57 100.33 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "4a9846fa-1e07-41da-b61f-32438c23e5a0")
+		(property "Reference" "C7"
+			(at 119.38 99.0599 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "22nF"
+			(at 119.38 101.5999 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
+			(at 116.5352 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 115.57 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 115.57 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "9b583423-c6c4-4087-89cc-bd1b9131b052")
+		)
+		(pin "1"
+			(uuid "dee06640-1da7-4014-82d8-2c3eb7047e44")
+		)
+		(instances
+			(project "RAPIDITO [tiempo-reacción]"
+				(path "/e6f142e2-b716-4ad1-8784-0c223e49aa91/519b65f8-5429-4826-a317-b754b8da882c"
+					(reference "C7")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 146.05 111.76 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "5177d1cf-a39d-4688-b720-f5bc5b01c6f7")
+		(property "Reference" "#PWR040"
+			(at 146.05 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 146.05 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 146.05 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 146.05 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 146.05 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "baa464c0-5c6c-49e8-9a42-563ac70e703b")
+		)
+		(instances
+			(project "RAPIDITO [tiempo-reacción]"
+				(path "/e6f142e2-b716-4ad1-8784-0c223e49aa91/519b65f8-5429-4826-a317-b754b8da882c"
+					(reference "#PWR040")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 161.29 111.76 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "68d73b24-e745-4ec9-a650-7111f68f203a")
+		(property "Reference" "#PWR041"
+			(at 161.29 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 161.29 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 161.29 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 161.29 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 161.29 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "7931226f-567e-40fc-b356-3145fbd466a0")
+		)
+		(instances
+			(project "RAPIDITO [tiempo-reacción]"
+				(path "/e6f142e2-b716-4ad1-8784-0c223e49aa91/519b65f8-5429-4826-a317-b754b8da882c"
+					(reference "#PWR041")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Switch:SW_Push")
+		(at 100.33 100.33 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "6b82e299-4bb9-4cd6-ac31-a357d520c0d6")
+		(property "Reference" "BTN_RESP2"
+			(at 101.6 99.0599 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "PB1"
+			(at 101.6 101.5999 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Connector_Molex:Molex_KK-254_AE-6410-02A_1x02_P2.54mm_Vertical"
+			(at 95.25 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 95.25 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Push button switch, generic, two pins"
+			(at 100.33 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "943c40f6-eaec-44a5-8a85-6d56c0881b1c")
+		)
+		(pin "1"
+			(uuid "6f08c158-da6b-4ee5-a0c1-cb22f45c455a")
+		)
+		(instances
+			(project "RAPIDITO [tiempo-reacción]"
+				(path "/e6f142e2-b716-4ad1-8784-0c223e49aa91/519b65f8-5429-4826-a317-b754b8da882c"
+					(reference "BTN_RESP2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 130.81 111.76 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "9115bb41-b545-4cfb-a861-ac00221d5828")
+		(property "Reference" "#PWR039"
+			(at 130.81 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 130.81 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 130.81 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 130.81 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 130.81 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "0ef1c9ec-2d5b-43ec-8d72-2b1cea7d5a7d")
+		)
+		(instances
+			(project "RAPIDITO [tiempo-reacción]"
+				(path "/e6f142e2-b716-4ad1-8784-0c223e49aa91/519b65f8-5429-4826-a317-b754b8da882c"
+					(reference "#PWR039")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 115.57 110.49 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "a4b07b93-6f11-422c-8d9d-4f77a07643fd")
+		(property "Reference" "#PWR038"
+			(at 115.57 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 115.57 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 115.57 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 115.57 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 115.57 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "15479e62-8aa8-4298-9272-8d33ce0627a6")
+		)
+		(instances
+			(project "RAPIDITO [tiempo-reacción]"
+				(path "/e6f142e2-b716-4ad1-8784-0c223e49aa91/519b65f8-5429-4826-a317-b754b8da882c"
+					(reference "#PWR038")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Switch:SW_Push")
+		(at 161.29 101.6 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "b0e7a550-89b5-4c7f-bbb9-55994ad02c10")
+		(property "Reference" "BTN_RESET2"
+			(at 162.56 100.3299 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "PB3"
+			(at 162.56 102.8699 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Connector_Molex:Molex_KK-254_AE-6410-02A_1x02_P2.54mm_Vertical"
+			(at 156.21 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 156.21 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Push button switch, generic, two pins"
+			(at 161.29 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "431f8b82-4f03-4576-a945-e6acc9e2d54f")
+		)
+		(pin "1"
+			(uuid "b0465940-57aa-41bd-bde3-6060f0a0d58d")
 		)
 		(instances
 			(project "RAPIDITO [tiempo-reacción]"
@@ -1767,17 +1425,83 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:C")
-		(at 196.85 107.95 0)
+		(lib_id "power:GND")
+		(at 208.28 111.76 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "e4bf86da-5e6d-4a48-aa7e-c83d8772021d")
-		(property "Reference" "C10"
-			(at 200.66 106.6799 0)
+		(uuid "b223e288-45ce-4d10-85a5-6b69fdc2dde2")
+		(property "Reference" "#PWR044"
+			(at 208.28 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 208.28 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 208.28 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 208.28 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 208.28 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "8f0c99a5-5646-43b2-a7f8-384346d2e4aa")
+		)
+		(instances
+			(project "RAPIDITO [tiempo-reacción]"
+				(path "/e6f142e2-b716-4ad1-8784-0c223e49aa91/519b65f8-5429-4826-a317-b754b8da882c"
+					(reference "#PWR044")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C")
+		(at 146.05 101.6 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "d972d0e2-8f32-4b3d-8fa6-4dd0fdb4588d")
+		(property "Reference" "C8"
+			(at 149.86 100.3299 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1785,8 +1509,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100nF"
-			(at 200.66 109.2199 0)
+		(property "Value" "22nF"
+			(at 149.86 102.8699 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1795,7 +1519,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
-			(at 197.8152 111.76 0)
+			(at 147.0152 105.41 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1804,7 +1528,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 196.85 107.95 0)
+			(at 146.05 101.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1813,7 +1537,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 196.85 107.95 0)
+			(at 146.05 101.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1822,10 +1546,286 @@
 			)
 		)
 		(pin "2"
-			(uuid "826d90e5-5629-4da1-843f-1cce3f0dea00")
+			(uuid "9093e9c2-f86d-4ad3-af55-f266b5ec2603")
 		)
 		(pin "1"
-			(uuid "e2fa9ad5-3738-4582-ae36-32ceeca6ffe4")
+			(uuid "430db085-7172-4cab-b1f6-e42e95ad78ca")
+		)
+		(instances
+			(project "RAPIDITO [tiempo-reacción]"
+				(path "/e6f142e2-b716-4ad1-8784-0c223e49aa91/519b65f8-5429-4826-a317-b754b8da882c"
+					(reference "C8")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C")
+		(at 177.8 101.6 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "ddcaf980-1a16-4774-ac4c-8d659f6caf18")
+		(property "Reference" "C9"
+			(at 181.61 100.3299 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "22nF"
+			(at 181.61 102.8699 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
+			(at 178.7652 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 177.8 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 177.8 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "ad2a1c8d-74e3-4875-85d5-31e42f92c9fe")
+		)
+		(pin "1"
+			(uuid "f4ad5e01-dbba-4c3c-8160-400c7cfcd97a")
+		)
+		(instances
+			(project "RAPIDITO [tiempo-reacción]"
+				(path "/e6f142e2-b716-4ad1-8784-0c223e49aa91/519b65f8-5429-4826-a317-b754b8da882c"
+					(reference "C9")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 193.04 111.76 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "e1918a21-ace5-47e6-9764-96c4706301be")
+		(property "Reference" "#PWR043"
+			(at 193.04 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 193.04 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 193.04 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 193.04 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 193.04 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "c28725ba-68e0-4531-b1a9-ab6f83d3471f")
+		)
+		(instances
+			(project "RAPIDITO [tiempo-reacción]"
+				(path "/e6f142e2-b716-4ad1-8784-0c223e49aa91/519b65f8-5429-4826-a317-b754b8da882c"
+					(reference "#PWR043")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Switch:SW_Push")
+		(at 193.04 101.6 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "f5b3855f-0cb5-4aba-9402-9fffaac61a57")
+		(property "Reference" "BTN_MODE2"
+			(at 194.31 100.3299 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "PB4"
+			(at 194.31 102.8699 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Connector_Molex:Molex_KK-254_AE-6410-02A_1x02_P2.54mm_Vertical"
+			(at 187.96 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 187.96 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Push button switch, generic, two pins"
+			(at 193.04 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "9c498225-43c5-4eeb-b146-60fc57e009ec")
+		)
+		(pin "1"
+			(uuid "42e5a105-501e-43fd-a1f0-b290b30453dc")
+		)
+		(instances
+			(project "RAPIDITO [tiempo-reacción]"
+				(path "/e6f142e2-b716-4ad1-8784-0c223e49aa91/519b65f8-5429-4826-a317-b754b8da882c"
+					(reference "BTN_MODE2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C")
+		(at 208.28 101.6 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "fbba51c3-0172-4a55-a2a9-2b5fdbfd7c7a")
+		(property "Reference" "C10"
+			(at 212.09 100.3299 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "22nF"
+			(at 212.09 102.8699 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
+			(at 209.2452 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 208.28 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 208.28 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "1e613e83-f4c0-4d2e-8114-fc16cb9471e5")
+		)
+		(pin "1"
+			(uuid "d44e3a72-bbca-4fd5-8a66-fdb88dca4230")
 		)
 		(instances
 			(project "RAPIDITO [tiempo-reacción]"
