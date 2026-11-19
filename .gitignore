@@ -5,3 +5,4 @@ fp-info-cache
 _autosave-*
 *.FCBak
 *.FCStd1
+doc/Factura*.pdf
